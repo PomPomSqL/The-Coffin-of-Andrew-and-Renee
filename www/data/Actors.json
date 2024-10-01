@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1],"faceIndex":5,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ashley","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Andrew","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":5,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Andy","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"____","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Leyley","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":7,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mom","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Warden","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":7,"characterName":"sprite_renne_with_jeans","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"YoungMom","nickname":"","note":"","profile":""}
+]

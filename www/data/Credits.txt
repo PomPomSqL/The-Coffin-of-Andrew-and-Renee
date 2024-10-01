@@ -1,0 +1,67 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,0,10,10,100,center,black>
+Version 2.0.11
+(All links in README.txt)
+
+\c[2]Developers
+Kit9 Studio and partners.
+
+\c[2]Plugins
+Galv, Atreyo Ray, mjshi, krmbn0576, Yanfly,
+RPG Maker Irina, Hudell, biud436, SumRndmDde, Zalerinian
+
+
+</block>
+
+<block:-1,0,10,10,100,center,black>
+\c[2]Background music
+
+YuliAudioCraft 
+
+BEEMYU
+
+Magical Music Box Music Pack
+[Copyright](C) Joel Steudler
+ 
+Alexander Nakarada - www.serpentsoundstudios.com
+Attribution 4.0 International (CC BY 4.0)
+
+Music_Unlimited 
+
+Music from https://www.zapsplat.com
+
+</block>
+
+<block:-1,0,10,10,100,center,black>
+
+\c[2]Sound effects
+
+KOU-G
+
+
+Sound effects obtained from https://pixabay.com/
+
+Additional sound effects from https://www.zapsplat.com/
+
+</block>
+
+
+<block:-1,0,10,10,100,center,black>
+
+\c[2]Font
+
+Copyright 2016 The Faustina Project Authors (omnibus.type@gmail.com)
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+</block>
+
+<block:-1,0,10,10,100,center,black>
+
+This game was created with RPG Maker MV by KADOKAWA CORPORATION 
+and includes modifications to the software.
+
+The game is subject to the RPG Maker MV End User License Agreement (EULA).
+
+</block>
