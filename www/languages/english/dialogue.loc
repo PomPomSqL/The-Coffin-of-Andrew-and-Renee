@@ -584,7 +584,7 @@
             "The front door won't budge."
         ],
         "GdR5GwDq": [
-            "You grieve the days when you still had the energy to",
+            "You long for the days when you still had the energy to",
             "attempt to crash it open."
         ],
         "Wv2TJ7mn": [
@@ -1521,7 +1521,7 @@
             "\"What do you mean?\""
         ],
         "KdbPX19c": [
-            "\"Don't play smart with me mister.\""
+            "\"Don't play smart with me, mister.\""
         ],
         "qvqcY26P": [
             "\"Full can of food thrown in the trash,",
@@ -19085,7 +19085,7 @@
             "\"They can afford better lawyers than you anyways.\""
         ],
         "wardenknock_18": [
-            "\"Then I... I won't sue the company.\""
+            "\"Then I won't sue the company.\""
         ],
         "wardenknock_19": [
             "\"In fact, I'll be suing\\fi you \\fr\\c[6], specifically! \""
@@ -19495,13 +19495,13 @@
             "\"To prove a point.\""
         ],
         "provpoint_4": [
-            "\"What was the point of getting the batteries in the first place?\""
+            "\"Then why did you get the batteries in the first place?\""
         ],
         "provpoint_5": [
             "\"\\fiTo prove a point.\\fr\\c[6] \""
         ],
         "provpoint_6": [
-            "\"Ok, I get 'the point', you want me",
+            "\"Ok, I get the 'point', you want me",
 	"to help more around the house.\""
         ],
         "provpoint_7": [
@@ -19585,8 +19585,8 @@
             "\"I look forward to getting out and getting back to college.\""
         ],
         "parasitetalk_10": [
-            "\"Yeah… I miss hearing you nerd out about all the places we could",
-            "visit.\""
+            "\"Yeah… I miss hearing you nerd out about",
+            "all the places we could visit.\""
         ],
         "parasitetalk_11": [
             "\"I’d do anything to hear your voice in person again. I just--…\""
@@ -20127,7 +20127,7 @@
             "\"Why the hell would you need a restraining order?\""
         ],
         "reneephonecall_52": [
-            "\"We're literally stuck in here asshole.\""
+            "\"We're literally stuck in here, asshole.\""
         ],
         "reneephonecall_53": [
             "\"........\""
@@ -20145,7 +20145,7 @@
             "\"L-look Renee, I... I’ve moved on.\""
         ],
         "reneephonecall_58": [
-            "\"And you need to too.\""
+            "\"And so should you.\""
         ],
         "reneephonecall_59": [
             "\"Please don't call me again.\""
@@ -20385,7 +20385,7 @@
 	"You're so exhausted..."
         ],
         "doorkick_1": [ 
-	"He attempting to kick the door in."
+	"He is attempting to kick the door in."
         ],		
         "doorkick_2": [ 
 	"Or out, depending on your perspective."
@@ -20771,7 +20771,7 @@
 			"\"Hell, I think just messing with the corpse is a crime.\""
 		],
 		"Summon_63": [ 
-			"\"Well, we’ve already dug ourselves","deep into that hole sweetheart.\""
+			"\"Well, we’ve already dug ourselves","deep into that hole, sweetheart.\""
 		],
 		"Summon_64": [ 
 			"\"Now that we’re here,","we might as well consider our position.\""
@@ -20831,7 +20831,7 @@
 			"\"Well… Would you rather I refer to him by name?\""
 		],
 		"Summon_98": [ 
-			"\"‘Okay Andrew! Make sure Mr.Whatshisface is cut up neatly!’\""
+			"\"Okay Andrew! Make sure Mr. Whatshisface is cut up neatly!\""
 		],
 		"Summon_99": [ 
 			"\"Jesus Christ mom, how can you joke like that right now?\""
@@ -21010,7 +21010,7 @@
 			"\"So pretty people can get it on alright, but I can’t?\""
 		],
 		"Escape_55": [ 
-			"\"What exactly are you insinuating?","That I’m old and ugly and can’t be romantic?\""
+			"\"What exactly are you insinuating?","That I’m old and ugly and can’t be loved?\""
 		],
 		"Escape_56": [ 
 			"\"Where is this even coming from?!","You got that man into our house for crying out loud!\""
@@ -21241,7 +21241,7 @@
         	"\"I know, Andrew.\""
         ],
         "eatingneighbor_33": [ 
-        	"\"This is the last food we might get for a while though.\""
+        	"\"We need all the food we can get.\""
         ],
         "eatingneighbor_34": [ 
         	"\"I don't want it going to waste.\""
@@ -21352,13 +21352,13 @@
         	"\"Oh come on!\""
         ],
         "Freedom_5": [ 
-        	"\"Didn't you teach me that it's always ladies first?","You can lead the way dear mother.\""
+        	"\"Didn't you teach me that it's always ladies first?","You can lead the way, dear mother.\""
         ],
         "Freedom_6": [ 
         	"\"Me and my big mouth…\""
         ],
         "Freedom_7": [ 
-        	"\"Who am I kidding.","I'd miss bossing you around too much if you were gone.\""
+        	"\"Who am I kidding?","I'd miss bossing you around too much if you were gone.\""
         ],
         "Freedom_8": [ 
         	"\"Of course, couldn't have you go without that.\""
@@ -21632,7 +21632,7 @@
 	"that could have helped with that.\""
         ],
         "LNight_19": [ 
-        	"\"But every time I bought it up, a certain someone got uptight.\""
+        	"\"But every time I brought it up, a certain someone got uptight.\""
         ],
         "LNight_20": [ 
         	"\"What? Your idea of fucking the wardens for food?\""
@@ -23060,7 +23060,7 @@
         	"\"I mean he was successful to some degree.","Also, the demon probably knows us by now.\""
         ],
         "Agreem_5": [ 
-        	"\"And since we're almost certainly in deep shit","with the law after everything that happened,...\""
+        	"\"And since we're almost certainly in deep shit","with the law after everything that happened...\""
         ],
         "Agreemm_5": [ 
         	"\"...We’re just about destined for hell anyways.\""
@@ -23219,19 +23219,19 @@
         	"\"You tell me. I wouldn’t know what you’re thinking.\""
         ],
         "Agreem_66": [ 
-        	"\"But I need to know...\""
+        	"\"But there is one thing I need to know from you...\""
         ],
         "Agreemm_66": [ 
-        	"\"............\""
+        	"\"............Andrew.\""
         ],
         "Agreem_67": [ 
         	"\"I need to know you won't snitch on me","so you can go sleep around with--...\""
         ],
         "Agreem_68": [ 
-        	"\"Andrew Graves! How dare you!?\""
+        	"\"Andrew Graves! You little brat!?\""
         ],
         "Agreem_70": [ 
-        	"\"The nerve of you! Speaking to your mother that way!?\""
+        	"\"You got some nerves to talk to your mother that way, huh!?\""
         ],
         "Agreem_72": [ 
         	"\"It's-...................................I'm scared, mom.\""
@@ -23295,7 +23295,7 @@
         	"\"Maybe...\""
         ],
         "Agreem_92": [ 
-        	"\"You're less cute when you act like a brat.\""
+        	"\"Although your earlier attitude leaves much to be desired.\""
         ],
         "Agreem_93": [ 
         	"\"...............Sorry.\""
@@ -23796,7 +23796,7 @@
         	"\"………….\""
         ],
         "Argument_151": [ 
-        	"\"\\fi Sigh\\fr\\c[6] ………….\""
+        	"\"\\fiSigh\\fr\\c[6]………….\""
         ],
         "Argument_152": [ 
         	"\"Alright then, darling,",
@@ -23897,7 +23897,7 @@
         ],
         "Argument_181": [ 
         	"\"‘Here lies Renee Graves,",
-	"she should have had two abortions?’\""
+	"she should have had two abortions’?\""
         ],
         "Argument_182": [ 
         	"\"More like, ‘Here lies Renee Graves,",
