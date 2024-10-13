@@ -584,7 +584,7 @@
             "The front door won't budge."
         ],
         "GdR5GwDq": [
-            "You grieve the days when you still had the energy to",
+            "You long for the days when you still had the energy to",
             "attempt to crash it open."
         ],
         "Wv2TJ7mn": [
@@ -1521,7 +1521,7 @@
             "\"What do you mean?\""
         ],
         "KdbPX19c": [
-            "\"Don't play smart with me mister.\""
+            "\"Don't play smart with me, mister.\""
         ],
         "qvqcY26P": [
             "\"Full can of food thrown in the trash,",
@@ -19034,7 +19034,7 @@
             "\"For the love of god, tell me you've got food today.\""
         ],
         "wardenknock_2": [
-            "\"Right,\\fi err \\fr\\c[3] about that...\""
+            "\"Right, \\fierr\\fr\\c[3] about that...\""
         ],
         "wardenknock_3": [
             "\"..........\""
@@ -19085,10 +19085,10 @@
             "\"They can afford better lawyers than you anyways.\""
         ],
         "wardenknock_18": [
-            "\"Then I... I won't sue the company.\""
+            "\"Then I won't sue the company.\""
         ],
         "wardenknock_19": [
-            "\"In fact, I'll be suing\\fi you \\fr\\c[6], specifically! \""
+            "\"In fact, I'll be suing \\fiyou\\fr\\c[6], specifically!\""
         ],
         "wardenknock_20": [
             "\"That's right! I'll enjoy mooching off your paychecks",
@@ -19104,7 +19104,7 @@
             "\"Hey, don't leave like that! Why you...\""
         ],
         "wardenknock_24": [
-            "\"... *Sigh* It's pointless anyways.\""
+            "\"...*Sigh* It's pointless anyways.\""
         ],
         "trashbags": [
             "This is where you and your son pile the trash."
@@ -19150,7 +19150,7 @@
             "\"This might just be the last thing we eat for a while.\""
         ],
         "tomatoeatdialog_4": [
-            "\"I hope it's not the last thing we\\fi ever\\fr\\c[1] eat.\""
+            "\"I hope it's not the last thing we \\fiever \\fr\\c[1] eat.\""
         ],
         "tomatoeatdialog_5": [
             "\"I do not want my last meal to be tomato sauce.\""
@@ -19227,7 +19227,7 @@
             "\"He's got a whole rave going on in there. Fat chance.\""
         ],
         "balconymusic_11": [
-            "\"Right, but you agree that we have to do\\fi something\\fr\\c[6].\""
+            "\"Right, but you agree that we have to do \\fisomething\\fr\\c[6].\""
         ],
         "balconymusic_12": [
             "\"So, indulge me. Do you have a better plan?\""
@@ -19316,8 +19316,8 @@
             "\"Hey! Wh-what are you doing on my balcony?\""
         ],
         "cultknock_6": [
-            "\"How doesn’t matter, what’s important here is\\\\fi",
-            "why\\fr\\c[6] I’m here.\""
+            "\"How doesn’t matter, what’s important here is",
+	"\\fiwhy \\fr\\c[6] I’m here.\""
         ],
         "cultknock_7": [
             "\"Woman, I don’t really uh... care why you’re here.\""
@@ -19388,7 +19388,7 @@
             "\"Or we pissed him off...\""
         ],
         "cultknock_29": [
-            "\"Pissed\\fi him\\fr\\c[6] off? Andrew, whose ears were being",
+            "\"Pissed \\fihim \\fr\\c[6] off? Andrew, whose ears were being",
             "violated back there?\""
         ],
         "cultknock_30": [
@@ -19495,13 +19495,13 @@
             "\"To prove a point.\""
         ],
         "provpoint_4": [
-            "\"What was the point of getting the batteries in the first place?\""
+            "\"Then why did you get the batteries in the first place?\""
         ],
         "provpoint_5": [
-            "\"\\fiTo prove a point.\\fr\\c[6] \""
+            "\"\\fiTo prove a point.\\fr\\c[6]\""
         ],
         "provpoint_6": [
-            "\"Ok, I get 'the point', you want me",
+            "\"Ok, I get the 'point', you want me",
 	"to help more around the house.\""
         ],
         "provpoint_7": [
@@ -19585,8 +19585,8 @@
             "\"I look forward to getting out and getting back to college.\""
         ],
         "parasitetalk_10": [
-            "\"Yeah… I miss hearing you nerd out about all the places we could",
-            "visit.\""
+            "\"Yeah… I miss hearing you nerd out about",
+            "all the places we could visit.\""
         ],
         "parasitetalk_11": [
             "\"I’d do anything to hear your voice in person again. I just--…\""
@@ -19973,7 +19973,7 @@
             "\"Look who decided to grow a pair.\""
         ],
         "reneephonecall_5": [
-			"\"Got tired of sending\\fi her \\fr\\c[6] to fight your battles for you?\""
+			"\"Got tired of sending \\fiher \\fr\\c[6] to fight your battles for you?\""
         ],
         "reneephonecall_6": [
             "\"There’s no need to make a mountain out of a molehill.\""
@@ -20127,7 +20127,7 @@
             "\"Why the hell would you need a restraining order?\""
         ],
         "reneephonecall_52": [
-            "\"We're literally stuck in here asshole.\""
+            "\"We're literally stuck in here, asshole.\""
         ],
         "reneephonecall_53": [
             "\"........\""
@@ -20145,7 +20145,7 @@
             "\"L-look Renee, I... I’ve moved on.\""
         ],
         "reneephonecall_58": [
-            "\"And you need to too.\""
+            "\"And so should you.\""
         ],
         "reneephonecall_59": [
             "\"Please don't call me again.\""
@@ -20372,7 +20372,7 @@
 	"having a younger sibling?\""
         ],
         "Balcony_32": [ 
-	"\"I\\fi had \\fr\\c[1] a younger sibling. Remember?\""
+	"\"I \\fihad \\fr\\c[1] a younger sibling. Remember?\""
         ],
         "Balcony_33": [ 
 	"\"Sheesh. I thought he'd be over that by now.\""
@@ -20439,7 +20439,7 @@
 	"\"Sure, I guess.\""
         ],
         "doorkick_17": [ 
-	"\"What if he's\\fi not \\fr\\c[1] lying though?\""
+	"\"What if he's \\finot \\fr\\c[1] lying though?\""
         ],
         "doorkick_18": [ 
 	"\"Beats me. We'll know for certain tonight.\""
@@ -20556,7 +20556,7 @@
 	"\"The act of throwing oneself out of a window.\""
         ],
         "floor_33": [ 
-	"\"You're\\fi still \\fr\\c[6] thinking about that!\""
+	"\"You're \\fistill \\fr\\c[6] thinking about that!\""
         ],
         "floor_34": [ 
 	"\"Well, you were the one who said you liked",
@@ -20771,7 +20771,7 @@
 			"\"Hell, I think just messing with the corpse is a crime.\""
 		],
 		"Summon_63": [ 
-			"\"Well, we’ve already dug ourselves","deep into that hole sweetheart.\""
+			"\"Well, we’ve already dug ourselves","deep into that hole, sweetheart.\""
 		],
 		"Summon_64": [ 
 			"\"Now that we’re here,","we might as well consider our position.\""
@@ -20831,7 +20831,7 @@
 			"\"Well… Would you rather I refer to him by name?\""
 		],
 		"Summon_98": [ 
-			"\"‘Okay Andrew! Make sure Mr.Whatshisface is cut up neatly!’\""
+			"\"Okay Andrew! Make sure Mr. Whatshisface is cut up neatly!\""
 		],
 		"Summon_99": [ 
 			"\"Jesus Christ mom, how can you joke like that right now?\""
@@ -20906,7 +20906,7 @@
 			"\"As much as I can at any rate...\""
         ],
 		"Escape_00": [ 
-            "\"Ha. Alright then. Let's go.... \\fi convince \\fr\\c[6] her.\""
+            "\"Ha. Alright then. Let's go.... \\ficonvince \\fr\\c[6] her.\""
 		],
 		"Escape_0": [ 
 			"\"MOM!!\""
@@ -21010,7 +21010,7 @@
 			"\"So pretty people can get it on alright, but I can’t?\""
 		],
 		"Escape_55": [ 
-			"\"What exactly are you insinuating?","That I’m old and ugly and can’t be romantic?\""
+			"\"What exactly are you insinuating?","That I’m old and ugly and can’t be loved?\""
 		],
 		"Escape_56": [ 
 			"\"Where is this even coming from?!","You got that man into our house for crying out loud!\""
@@ -21241,7 +21241,7 @@
         	"\"I know, Andrew.\""
         ],
         "eatingneighbor_33": [ 
-        	"\"This is the last food we might get for a while though.\""
+        	"\"We need all the food we can get.\""
         ],
         "eatingneighbor_34": [ 
         	"\"I don't want it going to waste.\""
@@ -21352,13 +21352,13 @@
         	"\"Oh come on!\""
         ],
         "Freedom_5": [ 
-        	"\"Didn't you teach me that it's always ladies first?","You can lead the way dear mother.\""
+        	"\"Didn't you teach me that it's always ladies first?","You can lead the way, dear mother.\""
         ],
         "Freedom_6": [ 
         	"\"Me and my big mouth…\""
         ],
         "Freedom_7": [ 
-        	"\"Who am I kidding.","I'd miss bossing you around too much if you were gone.\""
+        	"\"Who am I kidding?","I'd miss bossing you around too much if you were gone.\""
         ],
         "Freedom_8": [ 
         	"\"Of course, couldn't have you go without that.\""
@@ -22116,7 +22116,7 @@
 	"what I was seeing.\""
         ],
         "WarEnc_19": [
-        	"\"So I have to ask, did\\fi you \\fr\\c[6] like what you saw?\""
+        	"\"So I have to ask, did \\fiyou \\fr\\c[6] like what you saw?\""
         ],
         "WarEnc_20": [
         	"\"A- are you serious!?\""
@@ -22155,7 +22155,7 @@
         	"\"Lockdown's been kind to you, Miss…\""
         ],
         "WarEnc_31": [
-        	"\"Graves, Mrs. Graves. Flattery will get you \\fi everywhere \\fr\\c[6] ",
+        	"\"Graves, Mrs. Graves. Flattery will get you \\fieverywhere \\fr\\c[6]",
 	"with me.\""
         ],
         "WarEnc_32": [
@@ -22988,7 +22988,7 @@
         	"\"I think we’re done here for the day.\""
         ],
         "Dream1_186": [ 
-        	"\"See? It wasn’t that hard, wasn’t it?",
+        	"\"See? It wasn’t that hard, was it?",
 	"Everything is going to be just fine.\""
         ],
         "Dream1_187": [ 
@@ -23060,7 +23060,7 @@
         	"\"I mean he was successful to some degree.","Also, the demon probably knows us by now.\""
         ],
         "Agreem_5": [ 
-        	"\"And since we're almost certainly in deep shit","with the law after everything that happened,...\""
+        	"\"And since we're almost certainly in deep shit","with the law after everything that happened...\""
         ],
         "Agreemm_5": [ 
         	"\"...We’re just about destined for hell anyways.\""
@@ -23219,19 +23219,19 @@
         	"\"You tell me. I wouldn’t know what you’re thinking.\""
         ],
         "Agreem_66": [ 
-        	"\"But I need to know...\""
+        	"\"But there is one thing I need to know from you...\""
         ],
         "Agreemm_66": [ 
-        	"\"............\""
+        	"\"............Andrew.\""
         ],
         "Agreem_67": [ 
         	"\"I need to know you won't snitch on me","so you can go sleep around with--...\""
         ],
         "Agreem_68": [ 
-        	"\"Andrew Graves! How dare you!?\""
+        	"\"Andrew Graves! You little brat!!\""
         ],
         "Agreem_70": [ 
-        	"\"The nerve of you! Speaking to your mother that way!?\""
+        	"\"You got some nerves to talk to your mother that way, huh!?\""
         ],
         "Agreem_72": [ 
         	"\"It's-...................................I'm scared, mom.\""
@@ -23295,7 +23295,7 @@
         	"\"Maybe...\""
         ],
         "Agreem_92": [ 
-        	"\"You're less cute when you act like a brat.\""
+        	"\"Although your earlier attitude leaves much to be desired.\""
         ],
         "Agreem_93": [ 
         	"\"...............Sorry.\""
@@ -23352,7 +23352,7 @@
         	"\"Lesson learned, eh?\""
         ],
         "Argument_13": [ 
-			"\"Indulge me. What\\fi did \\fr\\c[6] we learn today Andrew?\""
+			"\"Indulge me. What \\fidid \\fr\\c[6] we learn today Andrew?\""
         ],
         "Argument_14": [ 
         	"\"Uhh...\""
@@ -23396,7 +23396,7 @@
 	"because you can’t be bothered to do it right the first time.\""
         ],
         "Argument_27": [ 
-        	"\"No,\\fi clearly \\fr\\c[6] you haven’t learned a thing.\""
+        	"\"No, \\ficlearly \\fr\\c[6] you haven’t learned a thing.\""
         ],
         "Argument_28": [ 
         	"\"Because this keeps happening,",
@@ -23457,7 +23457,7 @@
         	"\"You watch your tone!\""
         ],
         "Argument_45": [ 
-        	"\"And for the record: I\\fi am \\fr\\c[6] that good.\""
+        	"\"And for the record: I \\fiam \\fr\\c[6] that good.\""
         ],
         "Argument_46": [ 
         	"\"Whatever, who cares! Just let ME speak for once.\""
@@ -23607,7 +23607,7 @@
         ],
         "Argument_91": [ 
 			"\"Leaving the people in your life",
-	"who supported you for\\fi nobodies… \\fr\\c[6] \""
+	"who supported you for \\finobodies…\\fr\\c[6]\""
         ],
         "Argument_92": [ 
         	"\"Forget this…\""
@@ -23692,7 +23692,7 @@
 	"ditch me for the first bitch that comes along.\""
         ],
         "Argument_118": [ 
-        	"\"I wonder how your\\fi petite amie \\fr\\c[6] would feel",
+        	"\"I wonder how your \\fipetite amie \\fr\\c[6] would feel",
 	"if she knew you were the one who killed her friend…\""
         ],
         "Argument_119": [ 
@@ -23796,7 +23796,7 @@
         	"\"………….\""
         ],
         "Argument_151": [ 
-        	"\"\\fi Sigh\\fr\\c[6] ………….\""
+        	"\"\\fiSigh………….\\fr\\c[6]\""
         ],
         "Argument_152": [ 
         	"\"Alright then, darling,",
@@ -23897,7 +23897,7 @@
         ],
         "Argument_181": [ 
         	"\"‘Here lies Renee Graves,",
-	"she should have had two abortions?’\""
+	"she should have had two abortions’?\""
         ],
         "Argument_182": [ 
         	"\"More like, ‘Here lies Renee Graves,",
