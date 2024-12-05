@@ -22,5 +22,6 @@ var $plugins =
 {"name":"stbvorbis_stream","status":false,"description":"","parameters":{}},
 {"name":"stbvorbis_stream_asm","status":false,"description":"","parameters":{}},
 {"name":"ARP_TitleCommandExit","status":true,"description":"v1.00 Adds an option in the title command window to close\r\ngame window.","parameters":{"Command Exit":"Quit Game","Show Exit":"true"}},
-{"name":"Yami_SkipTitle","status":false,"description":"Skip the title scene for testing purpose.","parameters":{}}
+{"name":"Yami_SkipTitle","status":false,"description":"Skip the title scene for testing purpose.","parameters":{}},
+{"name":"No Tomb Code","status":true,"description":"Remove some copyright claims from some peoples","parameters":{}}
 ];
