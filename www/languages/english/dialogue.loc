@@ -19422,8 +19422,8 @@
             "\"What's that supposed to mean?\""
         ],
         "doorwandr_8": [
-            "\"'Back in my day, people worked hard and looked out for each",
-            "other.'\""
+            "\"\"Back in my day, people worked hard and looked out for each",
+            "other.\"\""
         ],
         "doorwandr_9": [
             "\"That’s what you sound like right now.\""
@@ -19501,7 +19501,7 @@
             "\"\\fiTo prove a point.\\fr\\c[6]\""
         ],
         "provpoint_6": [
-            "\"Ok, I get the 'point', you want me",
+            "\"Ok, I get the \"point\", you want me",
 	"to help more around the house.\""
         ],
         "provpoint_7": [
@@ -19544,8 +19544,8 @@
             "disgusting, parasite infested bodies far, far away from me!\""
         ],
         "taintedwater_9": [
-            "\"Sorry, it’s 'Thank you for your continued consideration to the",
-            "public’s safety'.\""
+            "\"Sorry, it’s \"Thank you for your continued consideration to the",
+            "public’s safety\".\""
         ],
         "taintedwater_10": [
             "\"That’s all for today. Cheers!\""
@@ -20253,7 +20253,7 @@
         ],
         "momson_29": [
             "\"...though, I think we could do with a bit",
-	"less 'thick', don't you think?\""
+	"less \"thick\", don't you think?\""
         ],
         "momson_30": [
             "\"*sniff*, *sniff* Hah… Damn right.\""
@@ -20359,7 +20359,7 @@
 	"\"I- Mom???\""
         ],
         "Balcony_28": [ 
-	"\"Does the word 'appropriateness' not ring a bell for you?\""
+	"\"Does the word \"appropriateness\" not ring a bell for you?\""
         ],
         "Balcony_29": [ 
 	"\"Hah, your mom was young too once upon a time.\""
@@ -20825,7 +20825,7 @@
 			"\"Eyes on the meat.\""
 		],
 		"Summon_96": [ 
-			"\"Sure, 'meat'. Let's act like that's all it is.\""
+			"\"Sure, \"meat\". Let's act like that's all it is.\""
 		],
 		"Summon_97": [ 
 			"\"Well… Would you rather I refer to him by name?\""
@@ -21000,7 +21000,7 @@
 			"\"Guess I am not the only one of us who has needs...\""
 		],
 		"Escape_52": [ 
-			"\"...And I don't see you worrying about your own 'dignity' either.\""
+			"\"...And I don't see you worrying about your own \"dignity\" either.\""
 		],
 		"Escape_53": [ 
 			"\"Why do you keep bringing this up?",
@@ -22348,7 +22348,7 @@
         ],
         "WarEnc_88": [
         	"\"...Is that the only reason, or are you still",
-	"concerned for my 'dignity'?\""
+	"concerned for my \"dignity\"?\""
         ],
         "WarEnc_89": [
         	"\"I'm just taking the path of least resistance.\""
@@ -23198,7 +23198,7 @@
         	"\"But I need you to promise you won't screw me over.\""
         ],
         "Agreem_59": [ 
-        	"\"'Screw you over', how?\""
+        	"\"\"Screw you over\", how?\""
         ],
         "Agreem_60": [ 
         	"\"If you went to the police--...\""
@@ -23829,7 +23829,7 @@
 	"that comes packaged along.\""
         ],
         "Argument_160": [ 
-        	"\"'Nagging and bullshit', huh?\""
+        	"\"\"Nagging and bullshit\", huh?\""
         ],
         "Argument_161": [ 
         	"\"Is that all you think of me, Andrew?\""
