@@ -19986,7 +19986,7 @@
         ],
         "reneephonecall_9": [
             "\"Which, from what I can gather, is you and",
-	"that cocksucker getting your ‘happily ever after’.\""
+	"that cocksucker getting your \"happily ever after\".\""
         ],
         "reneephonecall_10": [
             "\"While your son and I rot in this cooped up apartment.\""
@@ -20025,7 +20025,7 @@
             "\"Renee, you know I can’t do any of that.\""
         ],
         "reneephonecall_21": [
-            "\"We both saw the news. I can’t help in ‘that’ way.\""
+            "\"We both saw the news. I can’t help in \"that\" way.\""
         ],
         "reneephonecall_22": [
             "\"Sigh.......\""
@@ -20756,7 +20756,7 @@
 			"\"It was that weird… thing’s fault.\""
 		],
 		"Summon_58": [ 
-			"\"‘Officers, it was the demon that killed him,","we just happened to be there to eat his corpse!’\""
+			"\"\"Officers, it was the demon that killed him,","we just happened to be there to eat his corpse!\"\""
 		],
 		"Summon_59": [ 
 			"\"Yes. That will totally convince them of our innocence.\""
@@ -21666,7 +21666,7 @@
         ],
         "LNight_28": [ 
         	"\"It stands to reason that maybe that also extends to situations",
-	"like this? Surely, those guys weren’t ‘good men’?\""
+	"like this? Surely, those guys weren’t \"good men\"?\""
         ],
         "LNight_29": [ 
         	"\"Andrew, right now it's a different world.",
@@ -22020,7 +22020,7 @@
         	"\"....................\""
         ],
         "LNight_140": [ 
-        	"\"........So... any ideas on how we get out of this ‘coffin’?\""
+        	"\"........So... any ideas on how we get out of this \"coffin\"?\""
         ],
         "LNight_141": [ 
         	"\"Maybe one or two…\""
@@ -23081,7 +23081,7 @@
         	"\"Hate to be the one to point it out,","but we did have a perfectly good soul a few minutes ago….\""
         ],
         "Agreem_18": [ 
-        	"\"Besides, haven’t I already ‘technically’","given that thing a soul?\""
+        	"\"Besides, haven’t I already \"technically\"","given that thing a soul?\""
         ],
         "Agreem_19": [ 
         	"\"It didn't give me anything in return.\""
@@ -23159,13 +23159,13 @@
         	"\"Andrew, you're a man, so I don't expect you to understand...\""
         ],
         "Agreem_45": [ 
-        	"\"But sometimes, we women have to do ‘certain things’","for ‘certain reasons’ even if we don’t want to..\""
+        	"\"But sometimes, we women have to do \"certain things\"","for \"certain reasons\" even if we don’t want to..\""
         ],
         "Agreem_46": [ 
         	"\".............Not even going to comment on that.\""
         ],
         "Agreem_47": [ 
-        	"\"Shame really, I would’ve expected a ‘thank you’","for those last few months I spent with your dad.\""
+        	"\"Shame really, I would’ve expected a \"thank you\"","for those last few months I spent with your dad.\""
         ],
         "Agreem_48": [ 
         	"\"Mom!\""
@@ -23413,7 +23413,7 @@
         	"\"You keep making decisions without consulting me.\""
         ],
         "Argument_32": [ 
-        	"\"Does ‘mother knows best’ not ring a bell for you?\""
+        	"\"Does \"mother knows best\" not ring a bell for you?\""
         ],
         "Argument_33": [ 
         	"\"I wasn’t aware I still had to work off",
@@ -23672,8 +23672,8 @@
         	"\"I fell for your pleas and puppy-dog eyes.\""
         ],
         "Argument_112": [ 
-        	"\"’Wah wah, I’m so sorry, mommy!.’",
-	"‘Wah wah, Ashley made me do it!’\""
+        	"\" \"Wah wah, I’m so sorry, mommy!.\"",
+	"\"Wah wah, Ashley made me do it!\" \""
         ],
         "Argument_113": [ 
         	"\"And I believed you.\""
@@ -23896,12 +23896,12 @@
         	"\"Like what?\""
         ],
         "Argument_181": [ 
-        	"\"‘Here lies Renee Graves,",
-	"she should have had two abortions’?\""
+        	"\" \"Here lies Renee Graves,",
+	"she should have had two abortions\"?\""
         ],
         "Argument_182": [ 
-        	"\"More like, ‘Here lies Renee Graves,",
-	"she loved her baby boy too much’.\""
+        	"\"More like, \"Here lies Renee Graves,",
+	"she loved her baby boy too much\".\""
         ],
         "Argument_183": [ 
         	"\"………….\""
@@ -24043,7 +24043,7 @@
         	"\". . . . . . . . . . .\""
         ],
         "WarEnc_111": [ 
-        	"\". ... .. . .. . .... . . . .... . . . .\""
+        	"\". . . . . . . . . . . . . . . . . . .\""
         ]
     }
 }
